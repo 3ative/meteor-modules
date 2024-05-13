@@ -2,8 +2,8 @@
 
 ### Link(s) and Full ESPHome (D1 Mini) Code:
 - AilExpress Link for the [Modules](https://s.click.aliexpress.com/e/_DDYmi2r) Modules used: "Blue 58mm"
-
- - Copy & Paste in to your Device - Enjoy 💖
+- [YouTube Tutorial](https://youtu.be/_XgJyYwlejo)
+- Copy & Paste in to your Device - Enjoy 💖
 ```yaml
 substitutions:
   name: Meteor # For Component Names - Capitals allowed
