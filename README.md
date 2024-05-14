@@ -2,7 +2,7 @@
 
 ### Link(s) and Full ESPHome (D1 Mini) Code:
 - AilExpress Link for the [Modules](https://s.click.aliexpress.com/e/_DDYmi2r) Modules used: "Blue 58mm"
-- [YouTube Tutorial](https://youtu.be/_XgJyYwlejo)
+- [YouTube Tutorial](https://youtu.be/8JjdSDOBXRk)
 - Copy & Paste in to your Device - Enjoy 💖
 ```yaml
 substitutions:
