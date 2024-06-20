@@ -20,6 +20,7 @@ logger:
     switch: NONE
 api:
 ota:
+  platform: esphome
 
 wifi:
   ssid: !secret wifi_ssid
