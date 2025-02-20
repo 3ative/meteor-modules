@@ -10,7 +10,8 @@ substitutions:
 
 esphome:
   name: light-meteors
-  platform: ESP8266
+
+esp8266:
   board: d1_mini
 
 logger:
